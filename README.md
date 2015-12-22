@@ -1,2 +1,2 @@
 # LcScrollBannerView
-可以手动或自动滚动的广告栏
+iOS图片轮播,可以前后循环滚动，考虑自https://github.com/lizelu/ZLImageViewDisplay。
