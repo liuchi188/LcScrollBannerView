@@ -10,7 +10,7 @@ iOS图片轮播,可以前后循环滚动，参考自https://github.com/lizelu/ZL
 - iOS8.1 or later
 - Xcode 7.0
 
-#### 使用方法
+## 使用方法
 
 1.将代码中LcScrollBannerView.swift拖入项目中。   
 2.项目中集成了SDWebImage。   
