@@ -2,7 +2,7 @@
 iOS图片轮播,可以前后循环滚动，参考自https://github.com/lizelu/ZLImageViewDisplay。    
 在此基础上加入向后循环滑动功能。
 
-### 效果图
+## 效果图
 ![image](https://github.com/liuchi188/LcScrollBannerView/blob/master/lcScrollBannerView_image.png)
 
 ## 运行环境
